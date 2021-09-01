@@ -23,3 +23,10 @@ Everything you need to know before launching your bot:
   - chat.txt = There you can set what to respond and what the answer will be. Type them like in the example to make sure the bot will functionate well.
   - friend_welcome_message.txt = When someone add the bot, the bot will immediately accept it and send a welcome message. In this txt file you can configure this message. Leave it blank if you don't want to send welcome message on friend accept.
   - logs.txt = The bot will log everything there with the exact time and date when it happened. The bot will log who has been added, who sent message to the bot, the used commands etc.
+
+# Images
+
+![Chat](https://user-images.githubusercontent.com/52012944/131665286-64b6a2f5-71ed-43fe-8bed-4c5b50808ee4.png)
+![admincommands](https://user-images.githubusercontent.com/52012944/131665356-e2e75f54-2010-4262-8f12-c2593b5f7d02.png)
+![LogOnscreen](https://user-images.githubusercontent.com/52012944/131665373-6822c033-487a-4b69-ba05-48acb1fb966c.png)
+![Log](https://user-images.githubusercontent.com/52012944/131665384-30c470d1-915c-4746-a3d8-71a59c3ad69d.png)
